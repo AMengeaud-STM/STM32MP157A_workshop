@@ -1652,7 +1652,7 @@ Associate the wireless network to the wireless interface, here *wlan0*
 >       wpa_passphrase SSID_OF_NETWORK PASSWORD_OF_NETWORK >> /etc/wpa_supplicant/wpa_supplicant-wlan0.conf
 > ```
 
-Where *SSID_OF_NETWORK* *PASSWORD_OF_NETWORK* correspond to the SSID and password of wireless network
+Where *SSID_OF_NETWORK = msedgeworkshop* and *PASSWORD_OF_NETWORK = STAventM$TM999* correspond to the SSID and password of wireless network
 
 Last, in order to enable and start the wireless configuration, type the following command
 
